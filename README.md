@@ -3,4 +3,4 @@ This is a handwritten character image (MNIST) classifier that can run on any and
 <p><b> Installation Steps</b></p>
 <p>Step 1</p>
 <p>Download Android studio</p>
-<a href ="https://developer.android.com/studio/index.html"<a />
+<p>https://developer.android.com/studio/index.html</p>
