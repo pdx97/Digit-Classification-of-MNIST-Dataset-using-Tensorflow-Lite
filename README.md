@@ -16,3 +16,9 @@ This is a handwritten character image (MNIST) classifier that can run on any and
 <p><b>Download Android NDK</b></p>
 <p>$ wget https://dl.google.com/android/repository/android-ndk-r12b-linux-x86_64.zip<br>
    $ unzip android-ndk-r12b-linux-x86_64.zip -d ~/tensorflow
+<p>Step 5</p>
+<p><b>Train Model in Python on your desktop or a server</b><p>
+<p>tensorflow_model/mnist_convnet_keras.py<br>
+   tensorflow_model/mnist_convnet.py</p>   
+
+  
