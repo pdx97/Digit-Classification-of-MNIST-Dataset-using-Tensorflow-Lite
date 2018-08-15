@@ -10,4 +10,6 @@ This is a handwritten character image (MNIST) classifier that can run on any and
 <p>$ tar xvzf android-sdk_r24.4.1-linux.tgz -C ~/tensorflow</p>
 <p>Step 3</p>
 <p><b>Download SDK Build Tools</p>
+<p>$ cd ~/tensorflow/android-sdk-linux<br>
+   $ tools/android update sdk --no-ui</p>  
 
