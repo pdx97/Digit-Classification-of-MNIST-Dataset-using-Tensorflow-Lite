@@ -12,4 +12,7 @@ This is a handwritten character image (MNIST) classifier that can run on any and
 <p><b>Download SDK Build Tools</b></p>
 <p>$ cd ~/tensorflow/android-sdk-linux<br>
    $ tools/android update sdk --no-ui</p>  
-
+<p>Step 4</p>
+<p><b>Download Android NDK</b></p>
+<p>$ wget https://dl.google.com/android/repository/android-ndk-r12b-linux-x86_64.zip<br>
+   $ unzip android-ndk-r12b-linux-x86_64.zip -d ~/tensorflow
