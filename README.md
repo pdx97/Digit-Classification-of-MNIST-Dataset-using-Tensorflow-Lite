@@ -8,4 +8,6 @@ This is a handwritten character image (MNIST) classifier that can run on any and
 <p><b>Download Android SDK</b></p>
 <p>$ wget https://dl.google.com/android/android-sdk_r24.4.1-linux.tgz</p>
 <p>$ tar xvzf android-sdk_r24.4.1-linux.tgz -C ~/tensorflow</p>
+<p>Step 3</p>
+<p><b>Download SDK Build Tools</p>
 
