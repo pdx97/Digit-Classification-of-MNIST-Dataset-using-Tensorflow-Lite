@@ -20,5 +20,7 @@ This is a handwritten character image (MNIST) classifier that can run on any and
 <p><b>Train Model in Python on your desktop or a server</b><p>
 <p>tensorflow_model/mnist_convnet_keras.py<br>
    tensorflow_model/mnist_convnet.py</p>   
+   
+  <a href="https://www.youtube.com/channel/UCtcJgfKgRmVyWszVdgDyTlg">Youtube Presentation</a>
 
   
